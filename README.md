@@ -8,10 +8,11 @@ Something before push
 
 You are welcome that come to here and write your note at here! But before push
 your commits, you need be sure that all your commits are under the branch named
-by your name:
+by your name: (That will help the workflow better `^_^`)
 
 ``` shell
 # If your name is Alice, then you should create a branch named `Alice` and then:
+$ git branch Alice
 $ git checkout Alice
 
 # edit, commit, edit, commit...
@@ -25,4 +26,7 @@ $ git push
 
 Content
 -------
+
+- JavaScript
+  - [Basic](./docs/JavaScript/basic.md)
 
