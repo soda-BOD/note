@@ -28,8 +28,11 @@ Content
 -------
 
 - JavaScript
-  - [Basic](./docs/JavaScript/basic.md)
+  - [Basic]
+    (./docs/JavaScript/basic.md)
+  - [How to read the path]
+    (./docs/JavaScript/how-to-read-the-path.md)
 
 - Electron
-  - [How to install it under `Virtual Box`
-    ](./docs/Electron/how-to-install-it-under-vb.md)
+  - [How to install it under `Virtual Box`]
+    (./docs/Electron/how-to-install-it-under-vb.md)
