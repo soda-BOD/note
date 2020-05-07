@@ -30,3 +30,6 @@ Content
 - JavaScript
   - [Basic](./docs/JavaScript/basic.md)
 
+- Electron
+  - [How to install it under `Virtual Box`
+    ](./docs/Electron/how-to-install-it-under-vb.md)
