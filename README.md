@@ -38,3 +38,5 @@ Content
     (./docs/Electron/how-to-install-it-under-vb.md)
   - [The electron react boilerplate]
     (./docs/Electron/the-electron-react-boilerplate.md)
+  - [`Create-react-app` is too slow]
+    (./docs/Electron/create-react-app-is-too-slow.md)
