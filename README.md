@@ -36,3 +36,5 @@ Content
 - Electron
   - [How to install it under `Virtual Box`]
     (./docs/Electron/how-to-install-it-under-vb.md)
+  - [The electron react boilerplate]
+    (./docs/Electron/the-electron-react-boilerplate.md)
