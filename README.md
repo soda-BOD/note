@@ -27,6 +27,27 @@ $ git push
 Content
 -------
 
-- JavaScript
-  - [Basic](./docs/JavaScript/basic.md)
+(our notebook)
 
+- JavaScript
+  - [Basic]
+    (./docs/JavaScript/basic.md)
+  - [How to read the path]
+    (./docs/JavaScript/how-to-read-the-path.md)
+
+- Electron
+  - [How to install it under `Virtual Box`]
+    (./docs/Electron/how-to-install-it-under-vb.md)
+  - [The electron react boilerplate]
+    (./docs/Electron/the-electron-react-boilerplate.md)
+  - [`Create-react-app` is too slow]
+    (./docs/Electron/create-react-app-is-too-slow.md)
+
+Ref
+---
+
+(third-part)
+
+- Electron
+  - [⚡️ From React to an Electron app ready for production]
+    (https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3)
